@@ -7,9 +7,6 @@ PRODUCT_RELEASE_NAME := Fascinate
 # Inherit some common CM stuff.
 $(call inherit-product, vendor/du/configs/common.mk)
 
-## overlays
-DEVICE_PACKAGE_OVERLAYS += vendor/du/overlay/fascinatemtd
-
 # Inherit device configuration
 $(call inherit-product, device/samsung/fascinatemtd/full_fascinatemtd.mk)
 
