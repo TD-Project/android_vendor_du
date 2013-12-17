@@ -3,3 +3,4 @@ add_lunch_combo du_mako-userdebug
 add_lunch_combo du_fascinatemtd-userdebug
 add_lunch_combo du_skyrocket-userdebug
 add_lunch_combo du_hammerhead-userdebug
+add_lunch_combo du_hurcules-userdebug
